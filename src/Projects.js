@@ -46,7 +46,7 @@ export default function Projects({ data }) {
             <Grid container item xs={12} lg={6} direction="row" spacing={1}>
                 {
                     !!data && data.map((v, i) =>
-                        <Grid item sm={6} xs={12} key={i}>
+                    <Grid item sm={6} xs={12} key={i}>
                             <Fade in={animate} style={{ transitionDelay: `${200 * i}ms` }}>
                                 <Card key={i} className={classes.card}>
                                     <CardActionArea
