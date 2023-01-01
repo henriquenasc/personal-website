@@ -1,152 +1,75 @@
 {
-    "name": "Kaustubh Odak",
+    "name": "Henrique Nascimento",
     "landing": {
-        "title": "Hi, I'm Kaustubh",
+        "title": "Hi, I'm Henrique",
         "subtitles": [
-            "Full-stack developer 🌐",
-            "Cross-platform developer 📱💻",
-            "Exploring cloud ☁️",
-            "Beginner in devops ♾️",
-            "Just getting started 📈"
+            "Data Analyst in progress [...]",
+            "Web developer and code < />"
         ],
         "professionalDetails": [
             {
-                "alt": "kaustubh-odak",
+                "alt": "linkdin",
                 "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/kaustubh-odak/"
+                "link": "https://www.linkedin.com/in/henrique-nascimento-021901117/"
             },
             {
-                "alt": "kausko",
-                "icon": "stackoverflow",
-                "link": "https://stackoverflow.com/users/15832433/kausko"
+                "alt": "twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/henriquenasck"
             },
             {
-                "alt": "kausko",
+                "alt": "gituhb",
                 "icon": "github",
-                "link": "https://github.com/kausko"
+                "link": "https://github.com/henriquenasc"
             },
             {
                 "alt": "Email",
                 "icon": "gmail",
-                "link": "mailto:iam@kaustubhodak.me,kaustubhodak1@gmail.com"
+                "link": "mailto:henriquenascandrade@gmail.com"
             }
         ]
     },
     "skills": {
         "Languages known": [
-            "TypeScript",
-            "JavaScript",
-            "Java",
-            "C++",
             "Python",
             "HTML5",
             "CSS3",
-            "Kotlin",
-            "Dart"
+            "JavaScript",
+            "PHP",
+            "MySQL"
         ],
-        "Frontend": [
-            "React",
-            "Redux",
-            "Next.js",
-            "Gatsby",
-            "Netlify",
-            "Vercel",
-            "Material-UI",
-            "antdesign",
-            "Bootstrap"
-        ],
-        "Backend, Database and Cloud": [
-            "Node.js",
-            "Express",
-            "FastAPI",
-            "MongoDB",
-            "MySQL",
-            "PostgreSQL",
+        "Data Analytics": [
             {
-                "alt": "Azure",
-                "icon": "microsoftazure"
+                "alt": "microsoft_excel",
+                "icon": "Microsoft Excel",
+                "backgroundColor": "#217346"
             },
-            "Heroku",
-            "Firebase"
-        ],
-        "Mobile": [
             {
-                "alt": "React_Native",
-                "icon": "react",
-                "backgroundColor": "#424242"
+                "alt": "power_bi",
+                "icon": "Power BI",
+                "backgroundColor": "#F2C811"
             },
-            "Expo",
-            "Android",
-            "Flutter"
+            "pandas",
+            "NumPy",
+            "Jupyter",
+            {
+                "alt": "google_colab",
+                "icon": "Google Colab",
+                "backgroundColor": "#F9AB00"
+            }
         ]
     },
     "projects": {
-        "baseURI": "https://api.github.com/repos/kausko/",
+        "baseURI": "https://api.github.com/repos/henriquenasc/",
         "repositories": [
-            "Portfolio",
-            "Genrealize",
-            "cosmicom",
-            "Discord-Google-Drive-Bot",
-            "GitHits",
-            "Mail-em"
+            "jtasks"
         ]
     },
     "experience": {
-        "Work Experience": [
-            {
-                "organization": "CloudDFN LLP",
-                "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2020-07-20",
-                "endDate": "2021-01-20",
-                "city": "Mumbai",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "/CDFN.jfif"
-            },
-            {
-                "organization": "NonceBlox Pvt. Ltd.",
-                "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2021-07-01",
-                "endDate": "2021-10-01",
-                "city": "New Delhi",
-                "state": "Delhi",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "https://www.nonceblox.com/ton3.png"
-            }
-        ],
-        "Volunteer Experience": [
-            {
-                "organization": "PICT IEEE Student Branch (PISB)",
-                "role": "Technical Head",
-                "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "",
-                "city": "Pune",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/pisbieee/",
-                "thumbnail": "/PISB.jfif"
-            },
-            {
-                "organization": "Pictoreal",
-                "role": "Technical Head",
-                "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "2021-04-01",
-                "city": "Pune",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/pictoreal/",
-                "thumbnail": "/Picto.jfif"
-            }
-        ]
+        
     },
     "about": {
-        "description": "I am a full-stack cross-platform app developer, pursuing my M.S. in Computer Science from Georgia Tech. I strive to make meaningful applications with the best UI practices. ",
+        "description": "I am a technology enthusiast and I am studying Information Technology Management. I am very interested in Data Analysis and Web Development",
         "picture": "/profile.JPG",
         "social": []
     },
@@ -165,7 +88,7 @@
                 "type": "dark",
                 "background": {
                     "paper": "#303030",
-                    "default": "#212121"
+                    "default": "#1a1a1a"
                 }
             }
         }
